@@ -33,7 +33,7 @@ localStorage.setItem("fotoBase64", fotoBase64);
 // logout
 logoutBtn.addEventListener('click', () => {
   if (confirm("Tem certeza de que deseja sair?")) {
-    window.location.href = 'sign.html';
+    window.location.href = 'index.html';
     localStorage.removeItem("nome");
     localStorage.removeItem("fotoBase64");
   }
