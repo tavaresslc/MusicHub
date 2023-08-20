@@ -29,7 +29,7 @@ Nós temos um interesse pessoal na música e nos desafios enfrentados pelos arti
 
 ![image](https://user-images.githubusercontent.com/130800957/232355531-5ffd9738-8b3d-42e4-875f-ab8a902728d8.png)
 
-## Personas, Empatia e Proposta de Valor
+## Personas
 
  Persona 1
 ![image](https://user-images.githubusercontent.com/130800957/232359753-635d55b1-4719-45e9-8d0f-e5af8e47ae08.png)
